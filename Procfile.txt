@@ -1,0 +1,1 @@
+web: python tn_main.py $PORT
