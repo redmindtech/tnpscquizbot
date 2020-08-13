@@ -1,1 +1,1 @@
-worker: python tn_main.py $PORT
+worker: python tn_main.py 
