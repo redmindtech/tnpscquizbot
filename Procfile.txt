@@ -1,1 +1,1 @@
-worker: python tn_main.py 
+web: gunicorn gettingstarted.wsgi --log-file -
